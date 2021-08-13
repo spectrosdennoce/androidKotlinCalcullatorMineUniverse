@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">magical school</string>
+    <string name="display_output">cout energie</string>
+    <string name="click_button">Calculate</string>
+    <string name="savestat">Save</string>
+    <string name="damage">damage</string>
+    <string name="timecast">temps de caste</string>
+    <string name="bonus_stuff">bonus arme</string>
+    <string name="niveau">niveau mage</string>
+    <string name="zone">nb cible</string>
+    <string name="timeuse">temps spell</string>
+    <string name="timeactivity">temps actif</string>
+    <string name="textview_and_edittext">Calculator spell power</string>
+</resources>
